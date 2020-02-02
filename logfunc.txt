@@ -1,0 +1,203 @@
+ 2019-02-01 03:53:20,452 - DEBUG- ---------Start-----------
+ 2019-02-01 03:53:20,453 - DEBUG- this is data: [97, 98, 99, 100, 108, 120, 121, 122, 109, 110, 111]
+want: []
+ 2019-02-01 03:53:20,453 - DEBUG- 1 iteration 
+values of
+data[i+1] 98
+  data[i] 97
+ 2019-02-01 03:53:20,454 - DEBUG- want b4 append []
+ 2019-02-01 03:53:20,454 - DEBUG- want after append [97, 98]
+ 2019-02-01 03:53:20,454 - DEBUG- 2 iteration 
+values of
+data[i+1] 99
+  data[i] 98
+ 2019-02-01 03:53:20,454 - DEBUG- want b4 append [97, 98]
+ 2019-02-01 03:53:20,455 - DEBUG- want after append [97, 98, 99]
+ 2019-02-01 03:53:20,455 - DEBUG- 3 iteration 
+values of
+data[i+1] 100
+  data[i] 99
+ 2019-02-01 03:53:20,455 - DEBUG- want b4 append [97, 98, 99]
+ 2019-02-01 03:53:20,455 - DEBUG- want after append [97, 98, 99, 100]
+ 2019-02-01 03:53:20,456 - DEBUG- 4 iteration 
+values of
+data[i+1] 108
+  data[i] 100
+ 2019-02-01 03:53:20,456 - DEBUG- {108, 109, 110, 111, 120, 121, 122}
+ 2019-02-01 03:53:20,456 - DEBUG- {97, 98, 99, 100}
+ 2019-02-01 03:53:20,456 - DEBUG- modified data : [108, 109, 110, 111, 120, 121, 122]
+ 2019-02-01 03:53:20,457 - DEBUG- this is data: [108, 109, 110, 111, 120, 121, 122]
+want: []
+ 2019-02-01 03:53:20,457 - DEBUG- 1 iteration 
+values of
+data[i+1] 109
+  data[i] 108
+ 2019-02-01 03:53:20,457 - DEBUG- want b4 append []
+ 2019-02-01 03:53:20,457 - DEBUG- want after append [108, 109]
+ 2019-02-01 03:53:20,457 - DEBUG- 2 iteration 
+values of
+data[i+1] 110
+  data[i] 109
+ 2019-02-01 03:53:20,457 - DEBUG- want b4 append [108, 109]
+ 2019-02-01 03:53:20,458 - DEBUG- want after append [108, 109, 110]
+ 2019-02-01 03:53:20,458 - DEBUG- 3 iteration 
+values of
+data[i+1] 111
+  data[i] 110
+ 2019-02-01 03:53:20,458 - DEBUG- want b4 append [108, 109, 110]
+ 2019-02-01 03:53:20,458 - DEBUG- want after append [108, 109, 110, 111]
+ 2019-02-01 03:53:20,458 - DEBUG- 4 iteration 
+values of
+data[i+1] 120
+  data[i] 111
+ 2019-02-01 03:53:20,459 - DEBUG- {120, 121, 122}
+ 2019-02-01 03:53:20,459 - DEBUG- {108, 109, 110, 111}
+ 2019-02-01 03:53:20,459 - DEBUG- modified data : [120, 121, 122]
+ 2019-02-01 03:53:20,459 - DEBUG- this is data: [120, 121, 122]
+want: []
+ 2019-02-01 03:53:20,459 - DEBUG- 1 iteration 
+values of
+data[i+1] 121
+  data[i] 120
+ 2019-02-01 03:53:20,460 - DEBUG- want b4 append []
+ 2019-02-01 03:53:20,460 - DEBUG- want after append [120, 121]
+ 2019-02-01 03:53:20,460 - DEBUG- 2 iteration 
+values of
+data[i+1] 122
+  data[i] 121
+ 2019-02-01 03:53:20,460 - DEBUG- want b4 append [120, 121]
+ 2019-02-01 03:53:20,460 - DEBUG- want after append [120, 121, 122]
+ 2019-02-01 03:57:13,713 - DEBUG- ---------Start-----------
+ 2019-02-01 03:57:13,714 - DEBUG- this is data: [97, 98, 99, 100, 108, 120, 121, 122, 109, 110, 111]
+want: []
+ 2019-02-01 03:57:13,714 - DEBUG- 1 iteration 
+values of
+data[i+1] 98
+  data[i] 97
+ 2019-02-01 03:57:13,714 - DEBUG- want b4 append []
+ 2019-02-01 03:57:13,715 - DEBUG- want after append [97, 98]
+ 2019-02-01 03:57:13,715 - DEBUG- 2 iteration 
+values of
+data[i+1] 99
+  data[i] 98
+ 2019-02-01 03:57:13,715 - DEBUG- want b4 append [97, 98]
+ 2019-02-01 03:57:13,715 - DEBUG- want after append [97, 98, 99]
+ 2019-02-01 03:57:13,716 - DEBUG- 3 iteration 
+values of
+data[i+1] 100
+  data[i] 99
+ 2019-02-01 03:57:13,716 - DEBUG- want b4 append [97, 98, 99]
+ 2019-02-01 03:57:13,716 - DEBUG- want after append [97, 98, 99, 100]
+ 2019-02-01 03:57:13,716 - DEBUG- 4 iteration 
+values of
+data[i+1] 108
+  data[i] 100
+ 2019-02-01 03:57:13,716 - DEBUG- {108, 109, 110, 111, 120, 121, 122}
+ 2019-02-01 03:57:13,717 - DEBUG- {97, 98, 99, 100}
+ 2019-02-01 03:57:13,717 - DEBUG- modified data : [108, 109, 110, 111, 120, 121, 122]
+ 2019-02-01 03:57:13,717 - DEBUG- this is data: [108, 109, 110, 111, 120, 121, 122]
+want: []
+ 2019-02-01 03:57:13,717 - DEBUG- 1 iteration 
+values of
+data[i+1] 109
+  data[i] 108
+ 2019-02-01 03:57:13,717 - DEBUG- want b4 append []
+ 2019-02-01 03:57:13,718 - DEBUG- want after append [108, 109]
+ 2019-02-01 03:57:13,718 - DEBUG- 2 iteration 
+values of
+data[i+1] 110
+  data[i] 109
+ 2019-02-01 03:57:13,718 - DEBUG- want b4 append [108, 109]
+ 2019-02-01 03:57:13,719 - DEBUG- want after append [108, 109, 110]
+ 2019-02-01 03:57:13,719 - DEBUG- 3 iteration 
+values of
+data[i+1] 111
+  data[i] 110
+ 2019-02-01 03:57:13,719 - DEBUG- want b4 append [108, 109, 110]
+ 2019-02-01 03:57:13,720 - DEBUG- want after append [108, 109, 110, 111]
+ 2019-02-01 03:57:13,720 - DEBUG- 4 iteration 
+values of
+data[i+1] 120
+  data[i] 111
+ 2019-02-01 03:57:13,720 - DEBUG- {120, 121, 122}
+ 2019-02-01 03:57:13,720 - DEBUG- {108, 109, 110, 111}
+ 2019-02-01 03:57:13,721 - DEBUG- modified data : [120, 121, 122]
+ 2019-02-01 03:57:13,721 - DEBUG- this is data: [120, 121, 122]
+want: []
+ 2019-02-01 03:57:13,721 - DEBUG- 1 iteration 
+values of
+data[i+1] 121
+  data[i] 120
+ 2019-02-01 03:57:13,721 - DEBUG- want b4 append []
+ 2019-02-01 03:57:13,722 - DEBUG- want after append [120, 121]
+ 2019-02-01 03:57:13,722 - DEBUG- 2 iteration 
+values of
+data[i+1] 122
+  data[i] 121
+ 2019-02-01 03:57:13,722 - DEBUG- want b4 append [120, 121]
+ 2019-02-01 03:57:13,722 - DEBUG- want after append [120, 121, 122]
+ 2019-02-01 04:12:29,650 - DEBUG- ---------Start-----------
+ 2019-02-01 04:12:29,651 - DEBUG- this is data: [97, 98, 99, 100, 108, 120, 121, 122, 109, 110, 111]
+want: []
+ 2019-02-01 04:12:29,651 - DEBUG- 1 iteration 
+values of
+data[i+1] 98
+  data[i] 97
+ 2019-02-01 04:12:29,651 - DEBUG- want b4 append []
+ 2019-02-01 04:12:29,651 - DEBUG- want after append [97, 98]
+ 2019-02-01 04:12:29,652 - DEBUG- 2 iteration 
+values of
+data[i+1] 99
+  data[i] 98
+ 2019-02-01 04:12:29,652 - DEBUG- want b4 append [97, 98]
+ 2019-02-01 04:12:29,652 - DEBUG- want after append [97, 98, 99]
+ 2019-02-01 04:12:29,652 - DEBUG- 3 iteration 
+values of
+data[i+1] 100
+  data[i] 99
+ 2019-02-01 04:12:29,652 - DEBUG- want b4 append [97, 98, 99]
+ 2019-02-01 04:12:29,653 - DEBUG- want after append [97, 98, 99, 100]
+ 2019-02-01 04:12:29,653 - DEBUG- 4 iteration 
+values of
+data[i+1] 108
+  data[i] 100
+ 2019-02-01 04:12:29,653 - DEBUG- modified data : [108, 109, 110, 111, 120, 121, 122]
+ 2019-02-01 04:12:29,653 - DEBUG- this is data: [108, 109, 110, 111, 120, 121, 122]
+want: []
+ 2019-02-01 04:12:29,653 - DEBUG- 1 iteration 
+values of
+data[i+1] 109
+  data[i] 108
+ 2019-02-01 04:12:29,654 - DEBUG- want b4 append []
+ 2019-02-01 04:12:29,654 - DEBUG- want after append [108, 109]
+ 2019-02-01 04:12:29,654 - DEBUG- 2 iteration 
+values of
+data[i+1] 110
+  data[i] 109
+ 2019-02-01 04:12:29,654 - DEBUG- want b4 append [108, 109]
+ 2019-02-01 04:12:29,655 - DEBUG- want after append [108, 109, 110]
+ 2019-02-01 04:12:29,655 - DEBUG- 3 iteration 
+values of
+data[i+1] 111
+  data[i] 110
+ 2019-02-01 04:12:29,655 - DEBUG- want b4 append [108, 109, 110]
+ 2019-02-01 04:12:29,655 - DEBUG- want after append [108, 109, 110, 111]
+ 2019-02-01 04:12:29,655 - DEBUG- 4 iteration 
+values of
+data[i+1] 120
+  data[i] 111
+ 2019-02-01 04:12:29,656 - DEBUG- modified data : [120, 121, 122]
+ 2019-02-01 04:12:29,656 - DEBUG- this is data: [120, 121, 122]
+want: []
+ 2019-02-01 04:12:29,656 - DEBUG- 1 iteration 
+values of
+data[i+1] 121
+  data[i] 120
+ 2019-02-01 04:12:29,656 - DEBUG- want b4 append []
+ 2019-02-01 04:12:29,656 - DEBUG- want after append [120, 121]
+ 2019-02-01 04:12:29,657 - DEBUG- 2 iteration 
+values of
+data[i+1] 122
+  data[i] 121
+ 2019-02-01 04:12:29,657 - DEBUG- want b4 append [120, 121]
+ 2019-02-01 04:12:29,657 - DEBUG- want after append [120, 121, 122]
